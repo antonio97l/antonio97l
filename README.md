@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!--
+I'm Antonio, i graduated in  criminology, and i'm passionate in cybersecurity.
 **antonio97l/antonio97l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
